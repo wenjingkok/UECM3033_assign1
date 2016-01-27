@@ -1,8 +1,8 @@
 UECM3033 Assignment #1 Report
 ========================================================
 
-- Prepared by: ** Put your name here**
-- Tutorial Group: T2/T3
+- Prepared by: Kok Wen Jing
+- Tutorial Group: T2
 
 --------------------------------------------------------
 
@@ -10,7 +10,7 @@ UECM3033 Assignment #1 Report
 
 The reports, codes and supporting documents are uploaded to Github at: 
 
-[https://github.com/your_github_id/UECM3033_assign1](https://github.com/your_github_id/UECM3033_assign1)
+[https://github.com/wenjingkok/UECM3033_assign1](https://github.com/wenjingkok/UECM3033_assign1)
 
 
 ---------------------------------------------------------
@@ -34,7 +34,7 @@ In this section, please report:
 
 Here are the examples of how to add equations in markdown:
 
-$$\int_0^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}.$$
+$$\int_0^{\infty} {x^4}e^{-\frac{x^2}{2} dx = \frac{3\sqrt{2}\sqrt{\pi}}{2}.$$
 
 \begin{align*}
 3 x_0 +x_1 &= 9,\\
