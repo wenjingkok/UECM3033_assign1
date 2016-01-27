@@ -34,7 +34,7 @@ In this section, please report:
 
 Here are the examples of how to add equations in markdown:
 
-$$\int_0^{\infty} {x^4}e^{-\frac{x^2}{2} dx = \frac{3\sqrt{2}\sqrt{\pi}}{2}.$$
+$$\int_0^{\infty} {x^4}e^{-\frac{x^2}{2}} dx = \frac{3\sqrt{2\pi}}{2}.$$
 
 \begin{align*}
 3 x_0 +x_1 &= 9,\\
