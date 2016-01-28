@@ -29,12 +29,14 @@ Put here the screen shot of file (python.png)
 In this section, please report:
 
 1. The hexadecimal value of your student ID.
-2. Write down the definite integrals that you have chosen.
-3. Write down your system of 10 linear equations.
 
-Here are the examples of how to add equations in markdown:
+Hexadecimal representation of 1203036 is 0x125b5c
+
+2. Write down the definite integrals that you have chosen.
 
 $$\int_0^{\infty} {x^4}e^{-\frac{x^2}{2}} dx = \frac{3\sqrt{2\pi}}{2}.$$
+
+3. Write down your system of 10 linear equations.
 
 \begin{align*}
 3 x_0 + x_1 + 4 x_2 + 5 x_3 - 3 x_4 + 2 x_5 + 7 x_6 - 10 x_7 + x_8 + 2 x_9 &= 23,\\
